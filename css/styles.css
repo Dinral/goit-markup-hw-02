@@ -15,60 +15,104 @@ body {
 .studio-logo {
   color: #2e2f42;
 }
-.link-to-main-page {
+.links-to-other-website {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.link-to-main-page:hover,
-.link-to-main-page:focus {
-  color: #404bbf;
-}
-.link-to-portfolio {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.link-to-portfolio:hover,
-.link-to-portfolio:focus {
-  color: #404bbf;
-}
-.link-to-contacts {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.link-to-contacts:hover,
-.link-to-contacts:focus {
+.links-to-other-website:hover,
+.links-to-other-website:focus {
   color: #404bbf;
 }
 
 .address {
   font-style: normal;
 }
-.mail {
+.mail-and-phone {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.mail:hover,
-.mail:focus {
+.mail-and-phone:hover,
+.mail-and-phone:focus {
   color: #404bbf;
 }
-.phone {
+.first-section {
+  background-color: #2e2f42;
+}
+.big-heading {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+.third-heading {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.paragraphs-second-section {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.phone:hover,
-.phone:focus {
-  color: #404bbf;
+.our-team {
+  background-color: #f4f4fd;
+}
+.second-heading {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.our-team-persons {
+  background-color: #ffffff;
+}
+.our-team-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.our-team-position {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.what-we-doing {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.field {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
