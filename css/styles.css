@@ -26,6 +26,29 @@ body {
 .link-to-main-page:focus {
   color: #404bbf;
 }
+.link-to-portfolio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.link-to-portfolio:hover,
+.link-to-portfolio:focus {
+  color: #404bbf;
+}
+.link-to-contacts {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.link-to-contacts:hover,
+.link-to-contacts:focus {
+  color: #404bbf;
+}
+
 .address {
   font-style: normal;
 }
